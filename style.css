@@ -1,0 +1,130 @@
+body {
+    padding-top: 65px;
+}
+
+p.title {
+    font-weight: bold;
+    font-size: 80%;
+}
+
+
+.right {
+    float: right;
+}
+
+.recentpost {
+    float: right;
+    font-size: 150%;
+}
+
+.vertcenter {
+    vertical-align: center;
+}
+
+
+
+figcaption { 
+    display: block;
+    text-align: center;
+    font-style: italic;
+}
+
+
+strong { 
+    font-weight: bold;
+    color: black;
+    font-size: 140%;
+}
+
+small {  
+    font-size: 90%;
+    vertical-align: center;
+}
+
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+
+
+.jumbotron {
+    font-size: 50%;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10;
+}
+
+.vertline{ 
+   margin-left: 1%;
+   border-left: thick solid #C0C0C0; 
+}
+
+.interview {
+    margin-left: 1.5%;  
+}
+
+p.question {
+   /* font-size:150%; */
+   font-weight: bold;
+}
+
+
+.navbar-brand {
+    font-weight:bold;
+    color: black;
+    font-size: 200%;
+}
+
+
+.recentpost {
+    font-size: 200%
+}
+
+
+
+
+	/* link styling */
+	a.class1 {color:#0000CC;}
+	a.class1:link  {text-decoration: none; color: #0000CC;}
+	a.class1:visited {text-decoration: none; color: #0000CC;}
+	a.class1:hover {text-decoration: underline; color: red;}
+
+
+
+
+	/* link styling */
+	a.class2 {color:black;}
+	a.class2:link {text-decoration: none; color: black;}
+	a.class2:visited {text-decoration: none; color: black;}
+	a.class2:hover {text-decoration: underline; color: black;}
+
+
+
+/* photo link styling */
+	a.class3:hover { 
+		-moz-box-shadow: 0 0 10px #ccc; 
+		-webkit-box-shadow: 0 0 10px #ccc; 
+		box-shadow: 0 0 10px #ccc; 
+	} 
+
+
+
+/* about page photo captions */
+p.caption {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 4;
+}
+
+
+
+
+
+
